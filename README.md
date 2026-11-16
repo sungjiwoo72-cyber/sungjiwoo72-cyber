@@ -1,68 +1,128 @@
-# Olá! Eu sou Sung Ji Woo 👋
+<!--
+  CYBERPUNK DEVELOPER PROFILE
+  Replace YOUR_USERNAME with your GitHub username.
+-->
 
-### 💻 Desenvolvedor em constante evolução
+<div align="center">
 
-Sou um entusiasta da tecnologia e desenvolvimento de software, sempre buscando aprender novas ferramentas, explorar ideias e transformar conceitos em projetos reais.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:30105D,75:00E5FF,100:050510&height=220&section=header&text=SUNG%20JI%20WOO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=13&descAlignY=58&animation=fadeIn" />
 
-Atualmente, estou focado em desenvolvimento web, construção de aplicações full stack, integração de APIs e arquitetura de software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+PROFILE...;WELCOME+TO+MY+DIGITAL+SPACE;BUILDING+IDEAS+INTO+REALITY;CODE.+CREATE.+INNOVATE." />
 
----
+<br/>
 
-### 🚀 Tecnologias e ferramentas
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=080814" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-BC13FE?style=for-the-badge&labelColor=080814" />
+<img src="https://img.shields.io/badge/LOCATION-DIGITAL%20WORLD-FF00A8?style=for-the-badge&labelColor=080814" />
 
-**Frontend**
-- JavaScript
-- React.js
-- Vite
-- HTML5
-- CSS3
-
-**Backend**
-- Node.js
-- Prisma ORM
-- APIs REST
-
-**Ferramentas**
-- Git & GitHub
-- Docker
-- VS Code
-- OpenCode
+</div>
 
 ---
 
-### 📌 Projetos em destaque
+## `01 // SYSTEM PROFILE`
 
-🎌 **AniTrack**  
-Aplicação relacionada ao universo dos animes, utilizando integração com a Jikan API.
+```yaml
+identity:
+  name: "Sung Ji Woo"
+  role: "Developer"
+  mindset: "Always learning, always building"
 
-🧠 **Projetos de estudo**  
-Desenvolvimento de aplicações com foco em aprendizado, organização de código, integração entre frontend e backend e novas tecnologias.
+interests:
+  - Software Development
+  - Web Applications
+  - Backend Architecture
+  - API Integration
+  - New Technologies
+
+mission: "Transform ideas into functional digital experiences."
+```
+
+## `02 // TECH ARSENAL`
+
+<div align="center">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,prisma" />
+
+### TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## `03 // PROJECT DATABASE`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=SEU_REPOSITORIO&theme=midnight-purple&hide_border=true&bg_color=080814&title_color=00E5FF&icon_color=BC13FE&text_color=FFFFFF" />
+</a>
 
----
+</div>
 
-### 🎯 Atualmente
-
-- 📚 Aprimorando meus conhecimentos em desenvolvimento Full Stack.
-- ⚡ Explorando novas tecnologias e ferramentas.
-- 🛠️ Construindo projetos cada vez mais complexos.
-- 💡 Buscando transformar ideias em soluções reais.
+> More projects and experiments are being developed.
 
 ---
 
-### 📫 Contato
+## `04 // GITHUB ANALYTICS`
 
-- GitHub: [@SEU_USUARIO](https://github.com/SEU_USUARIO)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=080814&title_color=00E5FF&icon_color=BC13FE&text_color=FFFFFF&ring_color=BC13FE" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080814&title_color=00E5FF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=080814&ring=00E5FF&fire=FF00A8&currStreakLabel=00E5FF" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Great things are built one line of code at a time."</i>
-</p>
+## `05 // CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080814&color=00E5FF&line=BC13FE&point=FF00A8&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `06 // CURRENT OBJECTIVES`
+
+```bash
+> expanding_full_stack_knowledge
+> building_complex_applications
+> exploring_new_technologies
+> improving_software_architecture
+> turning_ideas_into_projects
+
+[████████████████████] SYSTEM ACTIVE
+```
+
+---
+
+## `07 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080814" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:30105D,100:00E5FF&height=110&section=footer" />
+
+<sub>© 2026 SUNG JI WOO // END OF TRANSMISSION</sub>
+
+</div>
